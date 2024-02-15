@@ -1,11 +1,15 @@
-remote_theme: "mattvh/jekyllthemes"
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-midnight
 
 plugins:
   - jekyll-remote-theme 
   - jekyll-include-cache # add this line to the plugins list if you already have one
   - jekyll-paginate
 
-title: Mi nuevo tema de Jekyll (Colores Oscuros)
+title: hola ASIR2
 
 defaults:
   - scope:
@@ -27,9 +31,17 @@ defaults:
 collections:
   members:
     output: true
-    
-    # número de posts por página
+
+
+
+# número de posts por página
 paginate: 2
 paginate_path: /blog/page:num/
 
-name: Sebastian Acosta
+
+
+minima:
+  skin: dark
+
+name: oscar novillo
+  
