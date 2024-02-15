@@ -1,7 +1,8 @@
-#theme: minimal-mistakes-jekyll
-remote_theme: "mattvh/jekyllthemes"
-
-minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-midnight
 
 plugins:
   - jekyll-remote-theme 
@@ -42,5 +43,5 @@ paginate_path: /blog/page:num/
 minima:
   skin: dark
 
-name: oscar novillo
+name: sebastian acosta
   
