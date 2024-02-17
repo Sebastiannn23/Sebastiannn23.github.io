@@ -25,7 +25,7 @@ Puede utilizar el [editor en GitHub](https://github.com/Sebastiannn23) para mant
 
 ### Reducción
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown es una sintaxis ligera y fácil de usar para diseñar tu escritura. Incluye convenciones para
 
 ```markdown
 Syntax highlighted code block
