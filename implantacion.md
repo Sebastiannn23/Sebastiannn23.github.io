@@ -43,7 +43,7 @@ Este es el MD de implantacion
 <body>
     <h1>Tipos de Pokémon</h1>
     <div class="tipo-pokemon">
-        <img src="https://static.wikia.nocookie.net/espokemon/images/0/0b/Snorlax.png/revision/latest/scale-to-width-down/1000?cb=20160904204605" alt="Tipo Normal">
+        <img src="https://images.wikidexcdn.net/mwuploads/wikidex/0/0b/latest/20160904204605/Snorlax.png" alt="Tipo Normal">
         <h2>Tipo Normal</h2>
         <p>Los Pokémon de tipo Normal son versátiles y no tienen debilidades ni resistencias contra ningún otro tipo.</p>
     </div>
