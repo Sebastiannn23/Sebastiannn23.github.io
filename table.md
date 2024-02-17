@@ -7,8 +7,8 @@ title: Table
 | Entrenador | Descripción |
 |------------|-------------|
 | ![Ash Ketchum](https://i.pinimg.com/originals/30/cf/b0/30cfb0d329ad5cfb332fecf1e78e7b89.jpg) | Ash Ketchum es el protagonista principal de la serie Pokémon. Es un entrenador de Pueblo Paleta cuyo objetivo es convertirse en el mejor Maestro Pokémon. |
-| ![Misty](https://i.pinimg.com/originals/93/b4/80/93b480d96387c650f04956d2c0b60600.jpg) | Misty es la líder del gimnasio de Ciudad Celeste y una amiga cercana de Ash. Es conocida por su pasión por los Pokémon de tipo agua y su temperamento fuerte. |
-| ![Brock](https://i.pinimg.com/originals/f1/97/dd/f197ddd2490bcfa3d8f233853cf325ee.jpg) | Brock es el líder del gimnasio de Ciudad Plateada y es un experto en Pokémon de tipo roca. Tiene un fuerte sentido de responsabilidad y cuida de sus hermanos menores. |
+| ![Misty](https://images.wikidexcdn.net/mwuploads/wikidex/9/95/latest/20190812164014/VS_Misty_Masters.png) | Misty es la líder del gimnasio de Ciudad Celeste y una amiga cercana de Ash. Es conocida por su pasión por los Pokémon de tipo agua y su temperamento fuerte. |
+| ![Brock](https://images.wikidexcdn.net/mwuploads/wikidex/a/a0/latest/20190812165852/VS_Brock_Masters.png) | Brock es el líder del gimnasio de Ciudad Plateada y es un experto en Pokémon de tipo roca. Tiene un fuerte sentido de responsabilidad y cuida de sus hermanos menores. |
 | ![Gary Oak](https://i.pinimg.com/originals/98/5a/de/985adedc9817defab79fffa4988f6d8f.jpg) | Gary Oak es el nieto del Profesor Oak y es un rival de Ash. Tiene una personalidad arrogante pero es un entrenador habilidoso. |
 | ![Jessie](https://i.pinimg.com/736x/9e/21/27/9e212772f3e9605c433e7a256ab5b650.jpg) | Jessie es miembro del Equipo Rocket junto con James y Meowth. Siempre están intentando robar Pokémon de otros entrenadores. |
 | ![James](https://i.pinimg.com/564x/66/08/b6/6608b6e683a61c815b3dfeab69d42397.jpg) | James es miembro del Equipo Rocket junto con Jessie y Meowth. Aunque trabaja para el Equipo Rocket, a veces muestra un lado más compasivo. |
