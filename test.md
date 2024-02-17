@@ -33,31 +33,31 @@ title: Pokeballs
   <h1>MundoPoké: Tu Guía Definitiva sobre Poké Balls</h1>
   <div class="pokeball-container">
     <div class="pokeball">
-      <img src="pokeball.png" alt="Poké Ball">
+      <img src="https://i.imgur.com/8b9n3u0.png" alt="Poké Ball">
       <p>Poké Ball</p>
     </div>
     <div class="pokeball">
-      <img src="greatball.png" alt="Great Ball">
+      <img src="https://i.imgur.com/ZkXZASG.png" alt="Great Ball">
       <p>Great Ball</p>
     </div>
     <div class="pokeball">
-      <img src="ultraball.png" alt="Ultra Ball">
+      <img src="https://i.imgur.com/WxVEGLN.png" alt="Ultra Ball">
       <p>Ultra Ball</p>
     </div>
     <div class="pokeball">
-      <img src="masterball.png" alt="Master Ball">
+      <img src="https://i.imgur.com/mCp0LO8.png" alt="Master Ball">
       <p>Master Ball</p>
     </div>
     <div class="pokeball">
-      <img src="quickball.png" alt="Quick Ball">
+      <img src="https://i.imgur.com/wUIg2rS.png" alt="Quick Ball">
       <p>Quick Ball</p>
     </div>
     <div class="pokeball">
-      <img src="duskball.png" alt="Dusk Ball">
+      <img src="https://i.imgur.com/WvVDs7x.png" alt="Dusk Ball">
       <p>Dusk Ball</p>
     </div>
     <div class="pokeball">
-      <img src="timerball.png" alt="Timer Ball">
+      <img src="https://i.imgur.com/zIky3lk.png" alt="Timer Ball">
       <p>Timer Ball</p>
     </div>
   </div>
