@@ -33,7 +33,7 @@ title: Pokeballs
   <h1>MundoPoké: Tu Guía Definitiva sobre Poké Balls</h1>
   <div class="pokeball-container">
     <div class="pokeball">
-      <img src="https://imgs.search.brave.com/4_iskM7r4qnwP2fweoY6FVqA0-EQQKxp-OW6Hzg44-Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvcG9rZWJhbGwt/cGljdHVyZXMtNXQ4/YTdkcXI0bzBucXNm/cC5qcGc" alt="Poké Ball">
+      <img src="https://imgs.search.brave.com/lC_Vijmz41GtAUTq3tcZXAddLO9-B22ZzUbaJ4ay6GY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvcG9rZWJhbGwv/cG9rZWJhbGxfUE5H/MTMucG5n" alt="Poké Ball">
       <p>Poké Ball</p>
     </div>
     <div class="pokeball">
@@ -45,7 +45,7 @@ title: Pokeballs
       <p>Ultra Ball</p>
     </div>
     <div class="pokeball">
-      <img src="https://imgs.search.brave.com/h_0jMRY1uj77ZJ_RWSWUgtD4jaVZx4RkBAZPKbAZ_rU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9lbGNv/bWVyY2lvLnBlL3Jl/c2l6ZXIvc3BaZk9M/N2NTRWdhYTRneVNm/Q1U1RDFyRFJJPS81/ODB4MzMwL3NtYXJ0/L2ZpbHRlcnM6Zm9y/bWF0KGpwZWcpOnF1/YWxpdHkoNzUpL2Ns/b3VkZnJvbnQtdXMt/ZWFzdC0xLmltYWdl/cy5hcmNwdWJsaXNo/aW5nLmNvbS9lbGNv/bWVyY2lvL0VGVUla/VFBMRVZGQ0pPSFRU/V1FMUEVXSkQ0Lmpw/Zw" alt="Master Ball">
+      <img src="https://static.wikia.nocookie.net/espokemon/images/a/a9/Master_Ball_%28Ilustraci%C3%B3n%29.png/revision/latest?cb=20120802225204" alt="Master Ball">
       <p>Master Ball</p>
     </div>
     <div class="pokeball">
