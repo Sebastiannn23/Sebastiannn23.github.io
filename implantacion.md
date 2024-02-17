@@ -9,7 +9,7 @@ tags: juegos,mierda
 
 ---
 
-# TITULO
+# ESTO ES IMPLANTACION
 
 Contenido de Implantacion
 

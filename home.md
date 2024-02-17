@@ -3,7 +3,7 @@ title: Home
 permalink: /
 ---
 
-## Bienvenido A El Apartado {{site.title}} De {{page.title}} 
+## Este es el apartado de  {{site.title}} De {{page.title}} 
 <ul>
 {% for page in site.pages %}
   <li>

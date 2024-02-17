@@ -1,10 +1,17 @@
 [
-    { "nombre": "Ana", "edad": 19, "sexo": "F" },
-    { "nombre": "Pedro", "edad": 32, "sexo": "M" },
-    { "nombre": "Pablo", "edad": 27, "sexo": "M" },
-    { "nombre": "Laura", "edad": 22, "sexo": "F" },
-    { "nombre": "Javier", "edad": 17, "sexo": "M" },
-    { "nombre": "Sandra", "edad": 28, "sexo": "F" },
-    { "nombre": "Mario", "edad": 24, "sexo": "M" },
-    { "nombre": "Julia", "edad": 41, "sexo": "F"}
+    { "nombre": "Bulbasur", "edad": 1, "sexo": "F" },
+    { "nombre": "Ivysur", "edad": 2, "sexo": "M" },
+    { "nombre": "Venasaur", "edad": 3, "sexo": "M" },
+    { "nombre": "Charmander", "edad": 4, "sexo": "F" },
+    { "nombre": "Charmeleon", "edad": 5, "sexo": "M" },
+    { "nombre": "Charizard", "edad": 6, "sexo": "F" },
+    { "nombre": "Squirtle", "edad": 7, "sexo": "M" },
+    { "nombre": "Wartortle", "edad": 8, "sexo": "F"},
+    { "nombre": "Blastoise", "edad": 9, "sexo": "F"},
+    { "nombre": "Caterpie", "edad": 10, "sexo": "F"},
+    { "nombre": "Metapod", "edad": 11, "sexo": "F"},
+    { "nombre": "Butterfree", "edad": 12, "sexo": "F"},
+    { "nombre": "Weedlw", "edad": 13, "sexo": "F"},
+    { "nombre": "Kakuna", "edad": 14, "sexo": "F"},
+    { "nombre": "Beedrill", "edad": 15, "sexo": "F"}
 ]

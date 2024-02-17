@@ -1,9 +1,9 @@
 ---
-title: members
+title: Pokedex
 
 ---
 
-# Members
+# Pokedex
 
 
 {% for member in site.members %}
