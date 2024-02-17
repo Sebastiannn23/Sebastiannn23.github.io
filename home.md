@@ -3,7 +3,7 @@ title: Home
 permalink: /
 ---
 
-## Este es el apartado de  {{site.title}} De {{page.title}} 
+## Este es el apartado de {{site.title}} De {{page.title}} 
 <ul>
 {% for page in site.pages %}
   <li>
@@ -21,10 +21,9 @@ permalink: /
   {% endfor %}
 </ul>
 
-You can use the [editor on GitHub](https://github.com/Sebastiannn23) to maintain and preview the content for your website in Markdown files.
+Puede utilizar el [editor en GitHub](https://github.com/Sebastiannn23) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown.
 
-
-### Markdown
+### Reducción
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
