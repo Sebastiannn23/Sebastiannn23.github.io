@@ -9,7 +9,7 @@ plugins:
   - jekyll-include-cache # add this line to the plugins list if you already have one
   - jekyll-paginate
 
-title: hola ASIR2
+title: POKEMON
 
 defaults:
   - scope:
