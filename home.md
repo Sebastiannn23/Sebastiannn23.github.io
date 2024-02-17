@@ -21,7 +21,7 @@ permalink: /
   {% endfor %}
 </ul>
 
-Puede utilizar el [editor en GitHub](https://github.com/Sebastiannn23) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown.
+Puede utilizar el [editor en GitHub](https://github.com/Sebastiannn23) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown
 
 ### Reducción
 
