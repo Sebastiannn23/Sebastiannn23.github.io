@@ -14,5 +14,5 @@ title: Pokedex
 
 
 {% for persona in site.data.personas %}
-  ## Nombre {{ persona.nombre }} -  N° pokede {{ persona.edad }} - Genero{{ persona.sexo }} - Generacion{{ persona.generacion }}
+  ## Nombre {{ persona.nombre }} -  N° pokede {{ persona.edad }} - Genero {{ persona.sexo }} - Generacion {{ persona.generacion }}
 {% endfor %}
