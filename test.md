@@ -45,7 +45,7 @@ title: Pokeballs
       <p>Ultra Ball</p>
     </div>
     <div class="pokeball">
-      <img src="https://static.wikia.nocookie.net/espokemon/images/a/a9/Master_Ball_%28Ilustraci%C3%B3n%29.png/revision/latest?cb=20120802225204" alt="Master Ball">
+      <img src="https://imgs.search.brave.com/c-su5Cfr_PNvHkx9Ftb2dziOlqSgogZI_5vJEDD7CgY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hcmNo/aXZlcy5idWxiYWdh/cmRlbi5uZXQvbWVk/aWEvdXBsb2FkLzkv/OTUvRHJlYW1fTWFz/dGVyX0JhbGxfU3By/aXRlLnBuZw" alt="Master Ball">
       <p>Master Ball</p>
     </div>
     <div class="pokeball">
