@@ -7,12 +7,12 @@ title: Pokedex
 
 
 {% for member in site.members %}
-  ## {{ member.name }} - {{ member.position }} - {{ persona.sexo }}
+  ## Nombre {{ member.name }} N pokedex {{ member.position }} Genero {{ persona.sexo }} Generacion {{ persona.generacion }}
   [ver]({{ member.url }}) 
   {{ member.content | markdownify }}
 {% endfor %}
 
 
 {% for persona in site.data.personas %}
-  ## {{ persona.nombre }} - {{ persona.edad }} - {{ persona.sexo }}
+  ## Nombre {{ persona.nombre }} N Pokedex {{ persona.edad }} Genero {{ persona.sexo }} Generacion {{ persona.generacion }}
 {% endfor %}
