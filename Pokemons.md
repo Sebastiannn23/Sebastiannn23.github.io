@@ -16,7 +16,7 @@ gallery:
     title: "Image 3 title caption"
 ---
 Esta es la Pagina de Pokemons
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -37,15 +37,15 @@ Esta es la Pagina de Pokemons
     <h1>¡Bienvenido a la aventura Pokémon!</h1>
     <div class="pokemon">
         <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" alt="Bulbasaur">
-        <p>Bulbasaur, ¡te elijo a ti!</p>
+        <p>Bulbasaur</p>
     </div>
     <div class="pokemon">
         <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" alt="Charmander">
-        <p>Charmander, ve y muestra tu poder!</p>
+        <p>Charmander</p>
     </div>
     <div class="pokemon">
         <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" alt="Squirtle">
-        <p>Squirtle, vamos a ganar esta batalla!</p>
+        <p>Squirtle</p>
     </div>
 </body>
 </html>
