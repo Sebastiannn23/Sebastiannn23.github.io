@@ -7,7 +7,7 @@ title: Pokedex
 
 
 {% for member in site.members %}
-  ## Nombre: {{ member.name }} -- N° pokedex: {{ member.position }} -- Genero: {{ persona.sexo }} -- Generacion: {{ persona.generacion }}
+  ## Nombre {{ member.name }} -- N° pokedex {{ member.position }} -- Genero: {{ persona.sexo }} -- Generacion: {{ persona.generacion }}
   [ver]({{ member.url }}) 
   {{ member.content | markdownify }}
 {% endfor %}
