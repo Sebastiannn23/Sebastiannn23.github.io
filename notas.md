@@ -19,6 +19,6 @@ title: personas
 	   <th>{{notas.notas}}</th>
 	   <th>{{notas.sexo}}</th>
 	  </tr>
-	    {% endfor %}
 	</table>
 	</thead>
+    {% endfor %}
