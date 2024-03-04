@@ -33,7 +33,7 @@ title: personas
   [ver]({{ member.url }}) 
   {{ member.content | markdownify }}
 {% endfor %}
-
+ 
 
 {% for notas in site.data.notas %}
   ## Nombre {{ notas.nombre }} -  Notas {{ notas.notas }} - sexo {{ persona.sexo }}
