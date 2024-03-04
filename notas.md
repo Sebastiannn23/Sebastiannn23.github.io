@@ -14,7 +14,7 @@ title: personas
 	        </tr>
 	</thead>
     <tbody>
-        {% for notas in site.data.notas}
+        {% for notas in site.data.notas%}
 	    <tr>
 	        <th>{{notas.nombre}}</th>
 	        <th>{{notas.notas}}</th>
