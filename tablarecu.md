@@ -2,9 +2,9 @@
 title: personas
 ---
 
-	<h1>personas</h1>
+<h1>personas</h1>
 
-	<table>
+<table>
 	 <thead>
 	  <tr>
 	   <th>nombre</th>
@@ -13,12 +13,12 @@ title: personas
 	  </tr>
 	</thead>
         <body>
-          {% for notas in site.data.notas}
+        {% for notas in site.data.notas}
 	<tr>
 	   <th>{{notas.nombre}}</th>
 	   <th>{{notas.notas}}</th>
 	   <th>{{notas.sexo}}</th>
 	  </tr>
-	{% endfor %}
+		{% endfor %}
 	</table>
 	</thead>
